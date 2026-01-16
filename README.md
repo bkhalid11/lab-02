@@ -2,16 +2,17 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `<Bilal Khalid>`
+- **CCID:** `<BKHALID>`
 
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
+Stack Overflow
+CodeHS
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| Bilal Khalid | BKHALID   |
